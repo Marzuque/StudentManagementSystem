@@ -1,0 +1,39 @@
+# Maven build outputs
+/target/
+/dependency-reduced-pom.xml
+/release.properties
+
+# NetBeans artifacts
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/manifest.mf
+
+# IntelliJ IDEA / Eclipse
+/.idea/
+*.iml
+/.project
+/.classpath
+/.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Java classes
+*.class
+
+# Local databases and data files
+/data/*.db
+/data/*.sqlite
+/data/*.db-journal
+/data/*.log
+
+# Temporary files
+*.tmp
+*.swp
